@@ -1,7 +1,0 @@
-<button id="myBookmarklet">Run Bookmarklet</button>
-<script>
-  document.getElementById('myBookmarklet').addEventListener('click', function() {
-    // Your bookmarklet code here
-    alert('Hello from the bookmarklet!'); 
-  });
-</script>
