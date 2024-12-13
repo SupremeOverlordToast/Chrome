@@ -7,4 +7,4 @@ https://htmlpreview.github.io/
 
 https://github.com/SupremeOverlordToast/Chrome/blob/main/bookmarklet.html
 
-/chrome://chrome-urls/
+chrome://chrome-urls/
