@@ -6,5 +6,3 @@ https://www.google.com/
 https://htmlpreview.github.io/
 
 https://github.com/SupremeOverlordToast/Chrome/blob/main/bookmarklet.html
-
-chrome://chrome-urls/
